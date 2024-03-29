@@ -30,4 +30,4 @@ scoreToGrade(75);
 scoreToGrade(87);
 
 // Test case 5
-console.log(scoreToGrade(90));
+scoreToGrade(90);
